@@ -2,7 +2,7 @@
 
 
 Background
-Our company operates as a car dealership offering a wide range of car models. To improve business insights and facilitate data-driven decision-making, we identified the need for a dynamic Car Sales Dashboard in Power BI.
+The company operates as a car dealership offering a wide range of car models. To improve business insights and facilitate data-driven decision-making, the company identified the need for a dynamic Car Sales Dashboard in Power BI.
 
 Objective
 The primary goal of this project was to design and build a comprehensive, interactive dashboard to track and analyse Key Performance Indicators (KPIs) related to car sales. This dashboard empowers stakeholders to monitor trends, evaluate performance, and identify growth opportunities at a glance.
