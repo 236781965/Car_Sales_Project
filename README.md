@@ -1,13 +1,13 @@
 # Car_Sales_Project
 
 
-Background:
+##Background:
 The company operates as a car dealership offering a wide range of car models. To improve business insights and facilitate data-driven decision-making, the company identified the need for a dynamic Car Sales Dashboard in Power BI.
 
-Objective:
+##Objective:
 The primary goal of this project was to design and build a comprehensive, interactive dashboard to track and analyse Key Performance Indicators (KPIs) related to car sales. This dashboard empowers stakeholders to monitor trends, evaluate performance, and identify growth opportunities at a glance.
 
-Problem Statement:
+##Problem Statement:
 KPI Tracking:
 
 Provide real-time insights into critical metrics such as total sales, average sales price, and units sold.
